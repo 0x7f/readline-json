@@ -1,0 +1,15 @@
+{
+  "name": "readline-json",
+  "description": "Wrapper around readline that emits parsed json objects.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "./lib",
+  "homepage": "https://github.com/0x7f/readline-json",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/0x7f/readline-json.git"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
